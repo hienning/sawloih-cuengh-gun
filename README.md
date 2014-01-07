@@ -6,7 +6,7 @@
 桌面版
 ======
 
-转换後的字典可在 StarDict、GoldenDict 中使用。推荐使用 GoldenDict，最新版在 [http://goldendict.org/forum/viewtopic.php?f=4&t=2091]，或直接访问 [Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows/), [Linux](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Linux-Portable/), [Mac OS X](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X/)。
+转换後的字典可在 StarDict、GoldenDict 中使用。推荐使用 GoldenDict，最新版在 http://goldendict.org/forum/viewtopic.php?f=4&t=2091, 或直接访问 [Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows/), [Linux](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Linux-Portable/), [Mac OS X](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X/)。
 
 移动平台
 ========
